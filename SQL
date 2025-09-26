@@ -1,0 +1,47 @@
+Electronics Store Analysis – SQL
+
+This project demonstrates SQL database design and analysis for an electronics store. It focuses on building structured tables, enforcing data integrity, and performing insightful sales analysis.
+
+🔑 Key Highlights
+
+Designed and created multiple tables: Customer, Product, Discount, Purchase with primary keys and constraints to ensure data integrity.
+
+Applied CHECK constraints to validate discount percentages.
+
+Inserted and managed data efficiently, performing SQL JOINs to analyze sales trends.
+
+Identified key business insights through queries:
+
+Top customers
+
+Regular customers
+
+Low-selling product categories
+
+Highly sold products
+
+
+
+🛠️ Skills & Techniques
+
+SQL table creation, constraints, and data types
+
+Data insertion and manipulation
+
+Multi-table JOINs and aggregation functions
+
+Business-focused data analysis
+
+
+🎯 Purpose
+
+Gain hands-on experience in database design
+
+Analyze sales data to extract actionable insights
+
+Showcase SQL skills for data analytics roles
+
+
+
+---
+
